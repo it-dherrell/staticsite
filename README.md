@@ -55,14 +55,8 @@ To set up and customize this static website, ensure you have:
 
 Contributions are welcome! If you have ideas for improvements or additional features, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Support
 
 If you encounter any issues or have questions, please create an issue in this repository or contact me direct.
 
----
-
-Happy building!
